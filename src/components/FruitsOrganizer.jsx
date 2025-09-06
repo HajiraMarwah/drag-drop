@@ -196,8 +196,8 @@ export default function FruitsOrganizer() {
 return (
   <div
     style={{
-      width: "100%",
-      height: "100vh", // full screen height
+     width: "100vw",
+height: "100vh",
       background: "#f9fafb",
       display: "flex",
       flexDirection: "column",
