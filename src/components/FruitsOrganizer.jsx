@@ -296,6 +296,7 @@ height: "100vh",
                 minWidth: "200px",
                 borderRadius: "8px",
                 border: "2px dashed #dc2626",
+                color:"black"
               }}
             >
               <h3>Dropped Fruits</h3>
